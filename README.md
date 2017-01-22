@@ -1,2 +1,2 @@
 # start
-first project
+is my first project
